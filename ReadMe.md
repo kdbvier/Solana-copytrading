@@ -101,7 +101,7 @@ TOKEN_PERCENTAGE=1 #percentage
 
 ## Donate
 
-👌 BEd8mPdRWm43biKjN85oY19ZQte59MYp86YB8Aomaxi
+👌 5HRGqxvYKHU6k2kxJFcJjxPJdv7efCSBu6AiZ8R2dYtK
 
 ---
 
