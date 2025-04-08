@@ -1,8 +1,3 @@
-<div style="width: 100%; display: flex; justify-content: center;"><img src="https://ipfs.io/ipfs/QmZEzFmfGDJFTEdc76Uu5FLxFbEnDTDoEqRsyatgx6ixhD" width="100"/></div>
-
-# Solana "Block-Speed" Copytrading Bot in Rust 🍳
-![GitHub Repo stars](https://img.shields.io/github/stars/sinniez/Rust-Copy-Trading-Tool)
-
 Tired of watching trades whiz by? Introducing the **Solana Block-Speed Copytrading Tool** in **Rust** 🦀. This bot is engineered for **extreme speed**, letting you mirror trades in (potentially) the same block. Built from the ground up in Rust for peak performance and rock-solid reliability. Get ready to ride the wave!
 
 ---
@@ -65,9 +60,6 @@ src/
 ```
 ---
 
-## Trial Version
-🗂️ [solana-raypump-copytrading-bot(r7m-trial).zip](https://github.com/user-attachments/files/18871125/solana-raypump-copytrading-bot.r7m-trial.zip)
-
 ## TG Version is alive now.
 Feel free use https://t.me/rustcopytrading_bot
 I would like to suggest to use new wallet and small funds for safety.
@@ -116,5 +108,5 @@ TOKEN_PERCENTAGE=1 #percentage
 ## Support
 
 For support and further inquiries, please contact me 
-- <a href="https://t.me/sinniez/">Telegram</a>
+- <a href="https://t.me/cmdev119/">Telegram</a>
 - <a href="https://discordapp.com/users/1114372741672488990">Discord (sinniez)</a>
